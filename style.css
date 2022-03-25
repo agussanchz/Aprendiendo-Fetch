@@ -1,0 +1,23 @@
+h2 {
+    display: flex;
+    justify-content: center;
+    color: #080888;
+}
+
+.productos {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    background-color: red;
+    
+}
+
+h1 {
+    padding: 10px;
+
+}
+
+p {
+    color: white;
+    padding: 10px;
+}
